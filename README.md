@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+const marianoveloper = {
+    pronouns: "He" | "Him",
+    code: ["Javascript","Python","php","C#"],
+    askMeAbout: ["web dev", "tech"],
+    technologies: {
+        mobileApp: ["flutter"],
+        frontEnd: {
+            js: ["Vue", "Nuxt"],
+            css: ["vuetify", "bootstrap"]
+        },
+        backEnd: {
+            php: ["laravel"],
+            js: ["node", "express"],
+            
+        },
+        databases: ["mongo", "MySql", "sqlite","oracle", "Sql Server"],
+      
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+   
+};
