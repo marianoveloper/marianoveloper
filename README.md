@@ -10,8 +10,8 @@ const marianoveloper = {
     technologies: {
         mobileApp: ["flutter"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["vuetify", "bootstrap"],
+            js: ["Vue"],
+            css: ["bootstrap"],
         },
         backEnd: {
             php: [" laravel "],
